@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500&display=swap');
+
 
     body {
         margin: 0;
@@ -12,8 +12,8 @@
     /*الجزء الايمن الحجز*/
     .container {
         background: #fff;
-        width: 820px;
-        height: 540px;
+        width: 800px;
+        height: 480px;
         border-radius: 20px;
         box-shadow: 0 5px 25px rgba(0,0,0,0.1);
         display: flex;
@@ -33,7 +33,7 @@
     }
 
     label {
-        font-size: 15px;
+        font-size: 20px;
         color: #7f8688;
         font-weight: bold;
     }
@@ -47,7 +47,7 @@
         font-family: 'Cairo', sans-serif;
         background: #f3f3f3;
         border-radius: 10px;
-        font-size: 15px;
+        font-size: 20px;
         outline: none;
         transition: 0.2s;
     }
@@ -64,7 +64,7 @@
         color: white;
         border: none;
         border-radius: 10px;
-        font-size: 16px;
+        font-size: 20px;
         cursor: pointer;
         transition: 0.3s;
     }
@@ -103,6 +103,6 @@
     }
 
     .info-section p {
-        font-size: 15px;
+        font-size: 20px;
         color: #eef3ff;
     }
